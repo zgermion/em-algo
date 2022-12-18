@@ -1,0 +1,10 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{\IeC {\CYRO }\IeC {\cyrs }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyre } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyrya }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrya }}{2}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{\IeC {\CYRCH }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrishrt } \IeC {\cyri } \IeC {\cyrb }\IeC {\cyra }\IeC {\cyrishrt }\IeC {\cyre }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyri }\IeC {\cyrishrt } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyrh }\IeC {\cyro }\IeC {\cyrd }}{7}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{EM-\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrg }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyrm }}{14}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{\IeC {\CYRO }\IeC {\cyrb }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyri } \IeC {\cyrp }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrya } \IeC {\cyra }\IeC {\cyrl }\IeC {\cyrg }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyrm }\IeC {\cyra }:}{25}{0}{4}
